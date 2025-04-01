@@ -18,4 +18,4 @@ Please reach out!
 - Email: leo@stir.software
 - Website: [leoqi.ca](https://leoqi.ca)
 - Linkedin: www.linkedin.com/in/leozqi/
-- SourceHut: https://git.sr.ht/
+- SourceHut: [https://git.sr.ht/](https://git.sr.ht/~leozqi/)

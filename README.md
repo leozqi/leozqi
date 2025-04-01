@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hello, world!
 
-<!--
-**leozqi/leozqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Leo, a computer engineering student at the University of Waterloo.
 
-Here are some ideas to get you started:
+Learning is kind of like cooking.
+Seemingly unrelated ingredients, stewed patiently, create a delicious soup.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently in the pot:
+
+- Teaching to learn
+- Cognitive science
+- Human-computer interaction (HCI)
+- Probability and variation
+- Systems
+
+Please reach out!
+
+- Email: leo@stir.software
+- Website: [leoqi.ca](https://leoqi.ca)
+- Linkedin: www.linkedin.com/in/leozqi/
+- SourceHut: https://git.sr.ht/
